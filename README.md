@@ -9,7 +9,7 @@ Hi, I'm Firstson Noussoukpoe, and this is my Cyber Security Portfolio. I am curr
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Home Lab Environement | Virtual Machine configuration & deployment, virtual networking  | Kali Linux, VirtualBox|       tba      |
 | pfSense Firewall Installation |  Firewall configuration, virtual networking | VirtualBox, pfSense |  tba             |
-| Dos Attack Simulation | Virtual network configuration, networking diagnostics, Network monitoring/analysis (Wireshark) | tba                |                 |
+| Dos Attack Simulation | Virtual network configuration, networking diagnostics, Network monitoring/analysis (Wireshark) | Kali, Linux, VirtualBox  |   tba              |
 
 
 # Certifications 
