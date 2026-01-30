@@ -9,7 +9,7 @@ Hi, I'm Firstson Noussoukpoe, and this is my Cyber Security Portfolio. I am curr
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Home Lab Environment | Virtual machine configuration and deployment, Virtual networking (NAT, internal
-networking)  | VirtualBox, Kali Linux|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+networking) |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
