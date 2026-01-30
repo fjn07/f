@@ -7,7 +7,7 @@ Hi, I'm Firstson Noussoukpoe, and this is my Cyber Security Portfolio. I am curr
 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | Kali Linux, VirtualBox|       SIEM      |
+| Building a SIEM | Virtual Machine configuration & deployment  | Kali Linux, VirtualBox|       SIEM      |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
